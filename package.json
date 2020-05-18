@@ -11,8 +11,8 @@
   "author": "Michelle Bu, Eric Zhang",
   "license": "MIT",
   "dependencies": {
-    "restify": "~2.3.5",
-    "ws": "~0.4.25",
+    "restify": "~8.5.1",
+    "ws": "~7.3.0",
     "optimist": "*"
   },
   "devDependencies": {
